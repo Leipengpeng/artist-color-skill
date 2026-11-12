@@ -1,0 +1,209 @@
+{
+  "version": "1.0.0",
+  "software_commit": "0a24e284407f98c4c4723bb7002021f75c2cf657",
+  "report_date": "2026-11-12",
+  "new_trials_for_release": false,
+  "batch_1": {
+    "photo_count": 10,
+    "output_count": 10
+  },
+  "batch_2": {
+    "photo_count": 3,
+    "output_count": 6,
+    "photos_overlap_batch_1": true
+  },
+  "outputs": [
+    {
+      "batch": 1,
+      "artist": "马蒂斯",
+      "dimensions": [
+        4896,
+        3264
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "梵高",
+      "dimensions": [
+        3872,
+        2592
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "高更",
+      "dimensions": [
+        8272,
+        6200
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "夏加尔",
+      "dimensions": [
+        6000,
+        4000
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "霍普",
+      "dimensions": [
+        11656,
+        8742
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "莫奈",
+      "dimensions": [
+        4592,
+        3448
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "塞尚",
+      "dimensions": [
+        8742,
+        11656
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "莫兰迪",
+      "dimensions": [
+        3456,
+        4608
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "罗斯科",
+      "dimensions": [
+        8272,
+        6200
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 1,
+      "artist": "亚当斯",
+      "dimensions": [
+        6200,
+        8272
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": true,
+      "fit_scope": "global_color_statistics",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 2,
+      "artist": "莫奈",
+      "dimensions": [
+        8272,
+        6200
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 2,
+      "artist": "梵高",
+      "dimensions": [
+        8272,
+        6200
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 2,
+      "artist": "马蒂斯",
+      "dimensions": [
+        4896,
+        3264
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 2,
+      "artist": "高更",
+      "dimensions": [
+        4896,
+        3264
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 2,
+      "artist": "霍普",
+      "dimensions": [
+        11656,
+        8742
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    },
+    {
+      "batch": 2,
+      "artist": "罗斯科",
+      "dimensions": [
+        11656,
+        8742
+      ],
+      "lut_grid": 65,
+      "image_geometry_passed": false,
+      "fit_scope": "global_color_statistics_only_after_geometry_failure",
+      "saved_lut_png_sample_replay_error_8bit": 0
+    }
+  ]
+}

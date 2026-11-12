@@ -14,3 +14,5 @@ outputs/
 *.synctex.gz
 *.fls
 *.fdb_latexmk
+reports/**/report.pdf
+reports/**/report-notes.md

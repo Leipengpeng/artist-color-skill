@@ -1,4 +1,4 @@
 interface:
-  display_name: "艺术家调色skill"
+  display_name: "艺术家调色 Skill"
   short_description: "选真实画作，双图追色并拟合 LUT，再用艺术家第一人称解释审美依据与取舍。"
   default_prompt: "使用 $artist-color-persona 为这张照片选择艺术家和真实参考画，完成双图调色与 LUT 后，再由艺术家用简短第一人称对话解释画面变化、相关创作理念与适用边界。"

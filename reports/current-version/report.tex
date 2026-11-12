@@ -1,0 +1,36 @@
+\documentclass[journal]{IEEEtran}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Consolas}
+\setCJKmainfont[AutoFakeBold=true]{SimSun}
+\setCJKsansfont{Microsoft YaHei}
+\setCJKmonofont{SimSun}
+\usepackage{amsmath,amssymb}
+\usepackage{balance}
+\setlength{\tabcolsep}{4pt}
+\usepackage{url}
+\usepackage[hidelinks,unicode]{hyperref}
+\hypersetup{pdftitle={艺术家调色 Skill 技术报告 v1.0.0},pdfauthor={Leipengpeng}}
+\begin{document}
+\title{艺术家调色 Skill：真实作品引导的双图迁色、\protect\\全局 LUT 与后置人物解读}
+\author{Leipengpeng\thanks{工程技术报告，版本 v1.0.0，2026 年 11 月 12 日。公开项目：\url{https://github.com/Leipengpeng/artist-color-skill}。采用 IEEEtran journal 期刊双栏版式。}}
+\markboth{Artist Color Skill 技术报告，v1.0.0，2026 年 11 月}{Leipengpeng: Artist Color Skill}
+\maketitle
+\input{report-body}
+\balance
+\begin{thebibliography}{12}
+\bibitem{pitie} F. Piti\'e and A. Kokaram, ``The linear Monge-Kantorovitch linear colour mapping for example-based colour transfer,'' in \emph{4th European Conf. Visual Media Production}, London, U.K., 2007. [Online]. Available: \url{https://francois.pitie.net/research/colour-transfer/}
+\bibitem{oklab} B. Ottosson, ``A perceptual color space for image processing,'' 2020. [Online]. Available: \url{https://bottosson.github.io/posts/oklab/}
+\bibitem{ieee} IEEE, ``IEEE Template Selector,'' accessed Nov. 12, 2026. [Online]. Available: \url{https://template-selector.ieee.org/}
+\bibitem{cma} Cleveland Museum of Art, ``Open Access,'' accessed Nov. 12, 2026. [Online]. Available: \url{https://www.clevelandart.org/open-access}
+\bibitem{repo} Leipengpeng, ``Artist Color Skill, v1.0.0,'' 2026. [Online]. Available: \url{https://github.com/Leipengpeng/artist-color-skill}
+\bibitem{monet} Cleveland Museum of Art, ``Claude Monet: Gardener's House at Antibes, 1888,'' collection 1916.1044. [Online]. Available: \url{https://www.clevelandart.org/art/1916.1044}
+\bibitem{vangogh} Van Gogh Museum, ``Vincent van Gogh: Wheatfield under Thunderclouds, 1890,'' s0106V1962. [Online]. Available: \url{https://www.vangoghmuseum.nl/en/collection/s0106V1962}
+\bibitem{matisse} Tate, ``Henri Matisse: The Snail, 1953,'' T00540. [Online]. Available: \url{https://www.tate.org.uk/art/artworks/matisse-the-snail-t00540}
+\bibitem{gauguin} National Galleries of Scotland, ``Paul Gauguin: Vision of the Sermon (Jacob Wrestling with the Angel), 1888.'' [Online]. Available: \url{https://www.nationalgalleries.org/art-and-artists/4940/0}
+\bibitem{hopper} Whitney Museum of American Art, ``Edward Hopper: Early Sunday Morning, 1930.'' [Online]. Available: \url{https://whitney.org/collection/works/46345}
+\bibitem{rothko} National Gallery of Art, ``Mark Rothko: Untitled (Brown and gray), 1969.'' [Online]. Available: \url{https://www.nga.gov/artworks/67654}
+\end{thebibliography}
+\end{document}
