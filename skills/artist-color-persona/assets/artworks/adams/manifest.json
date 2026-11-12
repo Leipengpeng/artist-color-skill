@@ -1,0 +1,151 @@
+{
+  "artist": "Ansel Adams",
+  "role": "adams_zone_print",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "Clearing Winter Storm",
+      "year": 1937,
+      "series": "The Eternal West exhibition",
+      "source_url": "https://collections.anseladams.com/ansel-adams-and-the-eternal-west/",
+      "image_url": "https://collections.anseladams.com/wp-content/uploads/2022/11/CLEARING-WINTER-STORM_AAOP-e1668537801701.jpg",
+      "rights": "Ansel Adams Publishing Rights Trust, rights reserved; local study web reproduction",
+      "file": "01-01-clearing-winter-storm.jpg",
+      "width": 720,
+      "height": 579,
+      "sha256": "c43bf0b31eae4b1b992773401253e0323929ef948464311edd5101a8f9c283b5",
+      "source_asset_sha256": "ca8d5fee0e6fa797217d2944dc4771741989d9276745110a3984725c1a87a86f",
+      "source_asset_dimensions": [
+        800,
+        643
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Monolith, The Face of Half Dome",
+      "year": 1927,
+      "series": "The Eternal West exhibition",
+      "source_url": "https://collections.anseladams.com/ansel-adams-and-the-eternal-west/",
+      "image_url": "https://collections.anseladams.com/wp-content/uploads/2022/11/MFHD_PORTFOLIO3_AAOP-e1668537694410.jpg",
+      "rights": "Ansel Adams Publishing Rights Trust, rights reserved; local study web reproduction",
+      "file": "03-03-monolith-the-face-of-half-dome.jpg",
+      "width": 519,
+      "height": 720,
+      "sha256": "8ad719a8453b107befe853dfa6eae2d2eeff2730a04e0b5be74b56544f2ec7e8",
+      "source_asset_sha256": "af4748955478db85177792769e4d2c6db0658bf606bb555e3164b1e74eb8a839",
+      "source_asset_dimensions": [
+        577,
+        800
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "White Stump",
+      "year": 1936,
+      "series": "The Eternal West exhibition",
+      "source_url": "https://collections.anseladams.com/ansel-adams-and-the-eternal-west/",
+      "image_url": "https://collections.anseladams.com/wp-content/uploads/2022/11/WHITE-STUMP_AAOP-1.jpg",
+      "rights": "Ansel Adams Publishing Rights Trust, rights reserved; local study web reproduction",
+      "file": "06-06-white-stump.jpg",
+      "width": 479,
+      "height": 720,
+      "sha256": "0d492997b218482d404316e4a91dcab6bffb79542352f4b68bdc07276597fd7d",
+      "source_asset_sha256": "3802a26370ab0781559494364cf0fe226deaa45afcde8f27cf84cd291621da5a",
+      "source_asset_dimensions": [
+        665,
+        1000
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "St. Francis Church",
+      "year": 1929,
+      "series": "The Eternal West exhibition",
+      "source_url": "https://collections.anseladams.com/ansel-adams-and-the-eternal-west/",
+      "image_url": "https://collections.anseladams.com/wp-content/uploads/2022/11/ST.-FRANCIS-CHURCH_AAOP.jpg",
+      "rights": "Ansel Adams Publishing Rights Trust, rights reserved; local study web reproduction",
+      "file": "08-08-st-francis-church.jpg",
+      "width": 720,
+      "height": 519,
+      "sha256": "5af65aa6863b7ec149df7cd569d3ad5a817159868a9e36c6aabfa5ae6caf6326",
+      "source_asset_sha256": "47f4e0c7db3109c7612bd09d9256a9076f8c0a1a801b27e4d3ed3905ee92668c",
+      "source_asset_dimensions": [
+        1000,
+        721
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Sand Dunes, Oceano",
+      "year": "ca. 1950",
+      "series": "The Eternal West exhibition",
+      "source_url": "https://collections.anseladams.com/ansel-adams-and-the-eternal-west/",
+      "image_url": "https://collections.anseladams.com/wp-content/uploads/2022/11/SAND-DUNES-OCEANO-V-e1668537041445.jpg",
+      "rights": "Ansel Adams Publishing Rights Trust, rights reserved; local study web reproduction",
+      "file": "12-12-sand-dunes-oceano.jpg",
+      "width": 535,
+      "height": 720,
+      "sha256": "f1384ca85cbe4f3f96f6d89b21e8f600ba0e6736d8bb43031af27314c5aecc90",
+      "source_asset_sha256": "f9ec7a339951247d76d76a3e2692cf112632a670c5baee138e9d89d0728a74ab",
+      "source_asset_dimensions": [
+        595,
+        800
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Moonrise, Hernandez, New Mexico",
+      "year": 1941,
+      "series": "Moonrise print history",
+      "source_url": "https://articles.anseladams.com/a-legend-in-light/",
+      "image_url": "https://articles.anseladams.com/wp-content/uploads/2025/04/1701115133_WebZoom.jpg",
+      "rights": "Ansel Adams Publishing Rights Trust, rights reserved; local study web reproduction",
+      "file": "15-18-moonrise-hernandez-new-mexico.jpg",
+      "width": 720,
+      "height": 557,
+      "sha256": "d5d2f4588766e9974b8bf26675f1cd1f1a1e5fe96a01b1799f7897bc35a8ba44",
+      "source_asset_sha256": "4d05a890b543b1bc5ce7194f52d07a50e1b0dafcf718abbce961f75ee51f8dc8",
+      "source_asset_dimensions": [
+        1000,
+        773
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Aspens, Northern New Mexico",
+      "year": 1958,
+      "series": "PBS American Experience: Iconic images",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/ansel-adams-iconic-images/",
+      "image_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Ansel-gallery-6.jpg",
+      "rights": "Ansel Adams Publishing Rights Trust, rights reserved; local study web reproduction",
+      "file": "21-24-aspens-northern-new-mexico.jpg",
+      "width": 720,
+      "height": 576,
+      "sha256": "37ff9d56919576dd54716af655ca07f337857a86905c71d89c1c3271a9ad6568",
+      "source_asset_sha256": "84e3a7fb6157aabe9339cc8b31c33f9f890e60178a9e0b2dca9ce23d80bcce5e",
+      "source_asset_dimensions": [
+        2000,
+        1601
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Tetons and Snake River, Grand Teton National Park, Wyoming",
+      "year": 1942,
+      "series": "Spencer Museum of Art: Images of America, 1927–1960",
+      "source_url": "https://spencerart.ku.edu/art/collections-online/object/15824",
+      "image_url": "https://sma-search-api.ku.edu/ea4208842c08996bda056e641cd793b4b74066379b42086fda0a837d677233f8/1986.0068.jpg",
+      "rights": "Ansel Adams Publishing Rights Trust, rights reserved; local study web reproduction",
+      "file": "27-30-the-tetons-and-snake-river-grand-teton-national-park-wyoming.jpg",
+      "width": 512,
+      "height": 414,
+      "sha256": "ba52a27cac9de1c6e38e18ed99202f774ac2cc7d44ea9b2fac0092484fee7fbf",
+      "source_asset_sha256": "e63100435b42d83c7a9c346f1ae14cfb1ac6b686e3508deb573a0453760e642e",
+      "source_asset_dimensions": [
+        512,
+        414
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "artists": 10,
+  "work_records": 80,
+  "bundled_cc0_images": 3,
+  "validation": "static syntax, metadata and package integrity only; no independent skill/model trial",
+  "archives": [
+    {
+      "file": "artist-color-persona-doubao-v1.0.0.zip",
+      "bytes": 422842,
+      "sha256": "f59f94fa8342e0793f42b7d936acb56c85ab4fed873e9a3211e226caae839869"
+    },
+    {
+      "file": "artist-color-persona-v1.0.0.zip",
+      "bytes": 424606,
+      "sha256": "ed1f6ab48ce33af43c208d85a1f2f308cf62ac94ce9683dd319be00fe3efd4b5"
+    }
+  ]
+}

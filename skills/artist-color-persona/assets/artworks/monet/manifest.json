@@ -1,0 +1,169 @@
+{
+  "artist": "Claude Monet",
+  "role": "monet_giverny_late",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "Spring Flowers",
+      "year": "1864",
+      "series": "Early work / still life",
+      "stage": "contrast",
+      "source_url": "https://www.clevelandart.org/art/1953.155",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1953.155/1953.155_web.jpg",
+      "rights": "CC0 — Cleveland Museum of Art Open Access",
+      "file": "01-cma-1953.155.jpg",
+      "width": 548,
+      "height": 720,
+      "sha256": "8e1648ed6bfd26ba7c45251cf690e73073be2526e5018fe3b66c53bc159c9617",
+      "source_asset_sha256": "1be47ed89d188931aa7fda1f52428022eac638a011fc1a994af7d7b84814959a",
+      "source_asset_dimensions": [
+        685,
+        900
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Gardener’s House at Antibes",
+      "year": "1888",
+      "series": "Mediterranean light / Antibes",
+      "stage": "contrast",
+      "source_url": "https://www.clevelandart.org/art/1916.1044",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1916.1044/1916.1044_web.jpg",
+      "rights": "CC0 — Cleveland Museum of Art Open Access",
+      "file": "04-cma-1916.1044.jpg",
+      "width": 720,
+      "height": 512,
+      "sha256": "e547e8dd389e3df68563fba922f108c2b838656351fedf011fae6c01059f4dbf",
+      "source_asset_sha256": "ffc32040a32c221ddbd2a94e84a97684f30d6e68755823c748188b0cdb704726",
+      "source_asset_dimensions": [
+        900,
+        640
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Water Lilies (Agapanthus)",
+      "year": "c. 1915–26",
+      "series": "Late Giverny / Agapanthus triptych panel",
+      "stage": "core",
+      "source_url": "https://www.clevelandart.org/art/1960.81",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1960.81/1960.81_web.jpg",
+      "rights": "CC0 — Cleveland Museum of Art Open Access",
+      "file": "05-cma-1960.81.jpg",
+      "width": 720,
+      "height": 335,
+      "sha256": "aa3a8131422d29adb9c436a17388e0bee5dcb8c1ecd25d524be4eff9bd3c0ee1",
+      "source_asset_sha256": "e7d04636fa8a6c6f3de899f6641b56f08d883d8d1437812ba91b5012115cdea7",
+      "source_asset_dimensions": [
+        900,
+        419
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Water-Lily Pond",
+      "year": "1899",
+      "series": "Early Giverny / bridge and water garden",
+      "stage": "contrast",
+      "source_url": "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond",
+      "image_url": "https://www.nationalgallery.org.uk/server.iip?IIIF=/fronts/N-4240-00-000069-XL-PYR.tif/full/!500,500/0/default.jpg",
+      "rights": "Public-domain underlying painting; The National Gallery, London, website review image",
+      "file": "07-ngl-4240.jpg",
+      "width": 500,
+      "height": 483,
+      "sha256": "b8f3465be458e3fdcdf2113483adcf51e8123b5cba5cbc9559cf48a4228995fa",
+      "source_asset_sha256": "d3405414426fd99f364ef5882a09cf5d50ace5d8bc31e030960a6d37c5a7cdf9",
+      "source_asset_dimensions": [
+        500,
+        483
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Water Lilies (triptych)",
+      "year": "1914–26",
+      "series": "Late Giverny / monumental Water Lilies",
+      "stage": "core",
+      "source_url": "https://www.moma.org/collection/works/80220",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjI0Njc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=3a1ed95974c1c0be",
+      "rights": "Public-domain underlying painting; MoMA digital collection image, local visual research copy",
+      "file": "09-moma-80220.jpg",
+      "width": 720,
+      "height": 112,
+      "sha256": "ea70dc0529e15ee199636262b41ce0d8f3412df66ed3ed55ec968dc39bfde2dd",
+      "source_asset_sha256": "6ed1f8e95f3eae105ccb0cd1e8f957f886ab21925b926383b1c65db3647f03bd",
+      "source_asset_dimensions": [
+        1400,
+        217
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Agapanthus",
+      "year": "1914–26",
+      "series": "Late Giverny / pond-side flowers",
+      "stage": "core",
+      "source_url": "https://www.moma.org/collection/works/79922",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjE2ODY2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=aa84042e488b5192",
+      "rights": "Public-domain underlying painting; MoMA digital collection image, local visual research copy",
+      "file": "11-moma-79922.jpg",
+      "width": 649,
+      "height": 720,
+      "sha256": "b59133fa68a35c1a14c9201a71eb6a4a36045c4e2c16674605eabc249d3f4244",
+      "source_asset_sha256": "69a7880f15259381431e355dba234247355e622087a61f90acf448892772ec0d",
+      "source_asset_dimensions": [
+        1261,
+        1400
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Les Nuages (The Clouds)",
+      "year": "1914–26",
+      "series": "Late Giverny / Orangerie Water Lilies composition",
+      "stage": "core",
+      "source_url": "https://www.musee-orangerie.fr/fr/oeuvres/les-nuages-196302",
+      "image_url": "https://cdn.mediatheque.epmoo.fr/link/3c9igq/jlf1bx8jponuqcg.jpg",
+      "rights": "© Musée de l’Orangerie, dist. RMN-Grand Palais / Patrice Schmidt, local visual research copy",
+      "file": "20-orangerie-196302.jpg",
+      "width": 667,
+      "height": 104,
+      "sha256": "5b88b385fa9e3494768de7f253904df39168d744ef2d1b38666fdf731104149f",
+      "source_asset_sha256": "00bf88b6e5215746e75269d08269de6f4b2d80b6b69bcd99397d9eaa77f4b18b",
+      "source_asset_dimensions": [
+        675,
+        110
+      ],
+      "source_artwork_crop": [
+        0.006,
+        0.028,
+        0.994,
+        0.972
+      ]
+    },
+    {
+      "title": "Les Deux Saules (The Two Willows)",
+      "year": "1914–26",
+      "series": "Late Giverny / Orangerie Water Lilies composition",
+      "stage": "core",
+      "source_url": "https://www.musee-orangerie.fr/fr/oeuvres/les-deux-saules-196306",
+      "image_url": "https://cdn.mediatheque.epmoo.fr/link/3c9igq/nzj1bx8lt82pslc.jpg",
+      "rights": "© Musée de l’Orangerie, dist. RMN-Grand Palais / Patrice Schmidt, local visual research copy",
+      "file": "21-orangerie-196306.jpg",
+      "width": 669,
+      "height": 79,
+      "sha256": "5f8da49577d015b5d36072c891f680d4905497d3e8a993dd60b7873cd390c0e3",
+      "source_asset_sha256": "75b73b6f0f9e7e4a1d489fea801c746f62ed774f4b89180dc2671a98cde31ad4",
+      "source_asset_dimensions": [
+        675,
+        83
+      ],
+      "source_artwork_crop": [
+        0.005,
+        0.025,
+        0.995,
+        0.975
+      ]
+    }
+  ]
+}

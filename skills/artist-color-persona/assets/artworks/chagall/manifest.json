@@ -1,0 +1,148 @@
+{
+  "artist": "Marc Chagall",
+  "role": "chagall_vitebsk_memory",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "I and the Village",
+      "year": 1911,
+      "stage": "focus",
+      "source_url": "https://www.moma.org/collection/works/78984/",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjYxOTcxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=cd3e02e8f3b70a8e",
+      "rights": "MoMA collection rights credit: Artists Rights Society (ARS), New York / ADAGP, Paris.",
+      "file": "01-01-i-and-the-village-1911.jpg",
+      "width": 571,
+      "height": 720,
+      "sha256": "e0d013c6fd00ab5f0703af1b5303a5c01e4d847d35d67d0f07132eff2157cc3e",
+      "source_asset_sha256": "14da1ee2732f4d8880f6f92b706a1ef2e59c0f123e7888eb23db982115d7ff2a",
+      "source_asset_dimensions": [
+        1587,
+        2000
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Paris through the Window",
+      "year": 1913,
+      "stage": "focus",
+      "source_url": "https://www.guggenheim.org/artwork/793",
+      "image_url": "https://www.guggenheim.org/wp-content/uploads/2024/11/art-chagall-paris-through-the-window.jpg",
+      "rights": "Guggenheim image credit: Artists Rights Society (ARS), New York / ADAGP, Paris.",
+      "file": "02-02-paris-through-the-window-1913.jpg",
+      "width": 720,
+      "height": 686,
+      "sha256": "a1882e8c5b4e528d9c13a919ecf9e6818586af2f82c892e52d402873435f57a7",
+      "source_asset_sha256": "9d3e19ca838bdac0871976843bd31863cffa401923c8390ffe92cbd7cb9f1470",
+      "source_asset_dimensions": [
+        2480,
+        2363
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Over Vitebsk",
+      "year": "c. 1914",
+      "stage": "focus",
+      "source_url": "https://www.philamuseum.org/objects/59474",
+      "image_url": "https://iiif.micr.io/FADwD/full/max/0/default.jpg",
+      "rights": "Philadelphia Museum of Art shares site images for educational use and directs permissions to its image rights office.",
+      "file": "03-03-over-vitebsk-c1914.jpg",
+      "width": 720,
+      "height": 567,
+      "sha256": "f97313f123200a378b8ec1618382c71a1c020419132e263bc8d73e17010fbad0",
+      "source_asset_sha256": "601b324a6cade40d4d6ec008578e936b233d1ccc88adeff69f6f9c626d1a8729",
+      "source_asset_dimensions": [
+        2068,
+        1629
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Birthday",
+      "year": 1915,
+      "stage": "focus",
+      "source_url": "https://www.moma.org/collection/works/79360",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjE1MTE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=64c9479cee8d65ae",
+      "rights": "MoMA collection rights credit: Artists Rights Society (ARS), New York / ADAGP, Paris.",
+      "file": "04-04-birthday-1915.jpg",
+      "width": 720,
+      "height": 570,
+      "sha256": "c5cb5f4214190ebc7027a611de32863c544b35dfc0bc142351843fbe85acf1c7",
+      "source_asset_sha256": "a9a5a6fd9293df609d0e788cca0ddbc57bcf6b7b38f9cdaf41dfaa1a21c5ee25",
+      "source_asset_dimensions": [
+        2000,
+        1583
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Rain",
+      "year": 1911,
+      "stage": "focus",
+      "source_url": "https://www.guggenheim.org/artwork/790",
+      "image_url": "https://www.guggenheim.org/wp-content/uploads/1911/01/76.2553.63_ph_web-1.jpg",
+      "file": "05-rain.jpg",
+      "width": 720,
+      "height": 573,
+      "sha256": "48cb65efcaeccfea90f8e7c307462c073d727c8a682ee5f76d2c73cf452bd0ba",
+      "source_asset_sha256": "26fd41407bf9de46a568db2885b6a07d341158cd400aae07902edd64898fa866",
+      "source_asset_dimensions": [
+        1280,
+        1019
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Newspaper Vendor",
+      "year": 1914,
+      "stage": "focus",
+      "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/c5gjKM",
+      "image_url": "https://www.centrepompidou.fr/media/picture/65/79/657916a77c260e9107a2fd99209e97f3/thumb_large.jpg",
+      "rights": "Centre Pompidou source credit: ADAGP, Paris; museum image distributed by GrandPalaisRmn.",
+      "file": "08-newspaper.jpg",
+      "width": 583,
+      "height": 720,
+      "sha256": "df5cd30ef57c23ed9202ecacd58b8630a109e2cea0f294d135b3fb06bad32ad6",
+      "source_asset_sha256": "0b80164555e07d26d085be7633f04864a0c217c65808fa99ed1110a9059e852c",
+      "source_asset_dimensions": [
+        648,
+        800
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Flying Carriage",
+      "year": 1913,
+      "stage": "focus",
+      "source_url": "https://www.guggenheim-bilbao.eus/en/press-room/images/chagall-the-breakthrough-years-1911-1919",
+      "image_url": "https://cms.guggenheim-bilbao.eus/uploads/2018/04/La-caleche-volante_1913.jpg",
+      "file": "12-flying-carriage.jpg",
+      "width": 720,
+      "height": 644,
+      "sha256": "ac1463e3ebc0b011d913ac99ead65f8727cc082bc46ffd7c365224f0bf54efb2",
+      "source_asset_sha256": "f67012fefacf62bc27227216c38253bf268eb07f007531db4e6fdf83930c8db4",
+      "source_asset_dimensions": [
+        4152,
+        3716
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Green Violinist",
+      "year": "1923–1924",
+      "stage": "contrast",
+      "source_url": "https://www.guggenheim.org/artwork/802",
+      "image_url": "https://www.guggenheim.org/wp-content/uploads/1923/01/37.446_ph_web-1.jpg",
+      "file": "16-green-violinist.jpg",
+      "width": 394,
+      "height": 720,
+      "sha256": "d301abc973df41e75bbb2913bfee9f7e2370bfafb2bdde3381950753f9d879d5",
+      "source_asset_sha256": "b7a15368c38fb89bc6fb5531f9fbe7d26a63f73e8c18340f1ac2b8e762d75d2c",
+      "source_asset_dimensions": [
+        701,
+        1280
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}

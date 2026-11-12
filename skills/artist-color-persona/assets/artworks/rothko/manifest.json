@@ -1,0 +1,151 @@
+{
+  "artist": "Mark Rothko",
+  "role": "rothko_black_gray",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "Untitled (Seagram Mural)",
+      "year": "1959",
+      "series": "Seagram Murals",
+      "source_url": "https://www.nga.gov/artworks/67525",
+      "image_url": "https://api.nga.gov/iiif/9b6711bd-0e2a-47e0-9982-5e39af7bbc81__900/full/700,/0/default.jpg",
+      "rights": "© Kate Rothko Prizel and Christopher Rothko. National Gallery of Art public collection display rendition (openaccess=0). Local study copy.",
+      "file": "05-nga-67525-untitled-seagram-mural.jpg",
+      "width": 700,
+      "height": 408,
+      "sha256": "473f8d63d3b05ce360a046162472e7ba44b388a574501c0c971c246ec74d9e25",
+      "source_asset_sha256": "164b2ab81fe5e82a7bd01cf3b620527015162c62c75768729fff4e2bfb5ddc71",
+      "source_asset_dimensions": [
+        700,
+        408
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Untitled",
+      "year": "1969",
+      "series": "Late Black on Gray",
+      "source_url": "https://www.nga.gov/artworks/67522",
+      "image_url": "https://api.nga.gov/iiif/21818b95-7a74-41bb-a076-676e5e10ae71__900/full/,700/0/default.jpg",
+      "rights": "© Kate Rothko Prizel and Christopher Rothko. National Gallery of Art public collection display rendition (openaccess=0). Local study copy.",
+      "file": "08-nga-67522-untitled.jpg",
+      "width": 537,
+      "height": 700,
+      "sha256": "f0ce1a0d8859302da0fbe5ffb72d117404b078d775db3744e092fd675fccec9b",
+      "source_asset_sha256": "4c1c2416f3a3b00d48780363083f49ce599c192929d0b90d24f03ec699d95513",
+      "source_asset_dimensions": [
+        537,
+        700
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Untitled",
+      "year": "1969",
+      "series": "Late Black on Gray",
+      "source_url": "https://www.nga.gov/artworks/67523",
+      "image_url": "https://api.nga.gov/iiif/8d2249cf-bd5b-4467-81d4-a236311f6537__900/full/700,/0/default.jpg",
+      "rights": "© Kate Rothko Prizel and Christopher Rothko. National Gallery of Art public collection display rendition (openaccess=0). Local study copy.",
+      "file": "09-nga-67523-untitled.jpg",
+      "width": 700,
+      "height": 555,
+      "sha256": "38c2f3dcb660605798a640cdb93029e7ff02cc8bb4dfafaff274ee24983d941d",
+      "source_asset_sha256": "b27fe89d842a4a24e38f3f9441053b5531a74705676daba852ad823848d8d54a",
+      "source_asset_dimensions": [
+        700,
+        555
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Untitled",
+      "year": "1969",
+      "series": "Late Black on Gray",
+      "source_url": "https://www.nga.gov/artworks/67524",
+      "image_url": "https://api.nga.gov/iiif/400abd62-6ac0-4656-80f2-5d1a7fbb7cb8__900/full/,700/0/default.jpg",
+      "rights": "© Kate Rothko Prizel and Christopher Rothko. National Gallery of Art public collection display rendition (openaccess=0). Local study copy.",
+      "file": "10-nga-67524-untitled.jpg",
+      "width": 658,
+      "height": 700,
+      "sha256": "9accf576b2fd08cebac0cfd3bb7b5e545f596b2b865291a1fb918750d155e98b",
+      "source_asset_sha256": "a1c4708de14194731d69c9cb8163b1b20d1e0ec642716b571aced7cbe009efbc",
+      "source_asset_dimensions": [
+        658,
+        700
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Untitled",
+      "year": "1969",
+      "series": "Late paper color contrast",
+      "source_url": "https://www.nga.gov/artworks/67649",
+      "image_url": "https://api.nga.gov/iiif/58062d09-5ecb-4511-8b6f-5adcefb29be0__900/full/,700/0/default.jpg",
+      "rights": "© Kate Rothko Prizel and Christopher Rothko. National Gallery of Art public collection display rendition (openaccess=0). Local study copy.",
+      "file": "11-nga-67649-untitled.jpg",
+      "width": 587,
+      "height": 700,
+      "sha256": "eb87fa9a728dd009621b76289419ec93f512fd5bfcb0feed3282f1d63f0f5dd0",
+      "source_asset_sha256": "00b837af7def21090e0c9fbb8b6e0845d5b069a238d5540b22c2b9145b1b2d72",
+      "source_asset_dimensions": [
+        587,
+        700
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Untitled (Brown and gray)",
+      "year": "1969",
+      "series": "Late Brown and Gray",
+      "source_url": "https://www.nga.gov/artworks/67654",
+      "image_url": "https://api.nga.gov/iiif/68c712ce-238a-499e-a924-c2c92dc11d13__900/full/,700/0/default.jpg",
+      "rights": "© Kate Rothko Prizel and Christopher Rothko. National Gallery of Art public collection display rendition (openaccess=0). Local study copy.",
+      "file": "12-nga-67654-untitled-brown-and-gray.jpg",
+      "width": 565,
+      "height": 700,
+      "sha256": "033ccc343eb81654ce3eef1b46278442c84f71ff069671070106aba4b4238543",
+      "source_asset_sha256": "e4474a88a23932af81af0de79dce6663d891ed28c5dc2aa306b1f62325ed065e",
+      "source_asset_dimensions": [
+        565,
+        700
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Untitled (brown and gray)",
+      "year": "1969",
+      "series": "Late Brown and Gray",
+      "source_url": "https://www.nga.gov/artworks/67662",
+      "image_url": "https://api.nga.gov/iiif/cfc2e940-fe0d-487e-a896-135334367e05__900/full/,700/0/default.jpg",
+      "rights": "© Kate Rothko Prizel and Christopher Rothko. National Gallery of Art public collection display rendition (openaccess=0). Local study copy.",
+      "file": "13-nga-67662-untitled-brown-and-gray.jpg",
+      "width": 474,
+      "height": 700,
+      "sha256": "81e249a10be1209d8d11a26b21eab1cfd1bea652337dacc6ed917d18f94bde26",
+      "source_asset_sha256": "0cdff2186d14ef696411584969d1bdcef72dcc38567ca6ca72003e6cef45381c",
+      "source_asset_dimensions": [
+        474,
+        700
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Untitled",
+      "year": "1969",
+      "series": "Late pale paintings on paper",
+      "source_url": "https://www.nga.gov/artworks/67669",
+      "image_url": "https://api.nga.gov/iiif/5a4ddfc6-8da2-4e9f-87b0-66f415c46ae9__900/full/,700/0/default.jpg",
+      "rights": "© Kate Rothko Prizel and Christopher Rothko. National Gallery of Art public collection display rendition (openaccess=0). Local study copy.",
+      "file": "14-nga-67669-untitled.jpg",
+      "width": 457,
+      "height": 700,
+      "sha256": "1ff8f318ff1e4d2cde094744c0490312ac23ed68954db87e85a8e22be25bbeca",
+      "source_asset_sha256": "63d39280402585387af4dbf6d277f3f4b7850d15e0848c730d6e1d83191dd6b3",
+      "source_asset_dimensions": [
+        457,
+        700
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "artist": "Giorgio Morandi",
+  "role": "morandi_mature_still_life",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "Still Life with Fruit",
+      "year": 1927,
+      "stage": "contrast",
+      "source_url": "https://cms.guggenheim-bilbao.eus/uploads/src/uploads/2019/03/Dosier-Giorgio-Morandi_EN.pdf#page=8",
+      "image_url": "https://cms.guggenheim-bilbao.eus/uploads/src/uploads/2019/03/Dosier-Giorgio-Morandi_EN.pdf#page=8",
+      "file": "02-bilbao-1927-46.jpg",
+      "width": 254,
+      "height": 180,
+      "sha256": "bc1f622419afb18a3ee300f97f3695d7176c57fb1857fbb68e6618a26c373073",
+      "source_asset_sha256": "2e1a669c789f2dd267c48fac0056037c713871467d6d2cd308d075aacdd66a00",
+      "source_asset_dimensions": [
+        254,
+        180
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Still Life with a Bottle",
+      "year": "ca. 1951",
+      "stage": "focus",
+      "source_url": "https://emuseum.toledomuseum.org/objects/54816/still-life-with-a-bottle",
+      "image_url": "https://emuseum.toledomuseum.org/apis/iiif/image/v2/47875/full/full/0/default.jpg",
+      "file": "07-toledo-ca1951-still-life-with-bottle.jpg",
+      "width": 720,
+      "height": 664,
+      "sha256": "b37256e0f628ac8b067c0b015a424886af6d1b9663275218315557c391a8671e",
+      "source_asset_sha256": "504d3d5994ae2c8253aa4d686a50828fda4459c14734a8c5a4e8064eff9e9e7d",
+      "source_asset_dimensions": [
+        2000,
+        1844
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Still Life",
+      "year": 1953,
+      "stage": "focus",
+      "source_url": "https://www.phillipscollection.org/collection/still-life-4",
+      "image_url": "https://www.phillipscollection.org/sites/default/files/collection/1389.jpg",
+      "file": "10-phillips-1953-still-life.jpg",
+      "width": 720,
+      "height": 370,
+      "sha256": "cfa82211435f18b422020292e15d328e9d3bdfc754c46f482a739962790b5d28",
+      "source_asset_sha256": "cac63a4915c536294a739ba178edee6f2f00a7c3c3f8fc36f04e2461e664809e",
+      "source_asset_dimensions": [
+        1536,
+        790
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Still Life (Kunst Museum Winterthur)",
+      "year": 1955,
+      "stage": "focus",
+      "source_url": "https://digital.kmw.ch/en/art-objects/giorgio-morandi-still-life-landscape/",
+      "image_url": "https://digital.kmw.ch/media/images/19_Morandi_natura_morta_1955.format-jpeg.height-400.jpg",
+      "file": "13-winterthur-1955-still-life.jpg",
+      "width": 468,
+      "height": 400,
+      "sha256": "ed4bcd8a08d761491c29f0f733dc49e815e846279a70a4a37d09966174185a0e",
+      "source_asset_sha256": "5cd417116bac76e93bb6737d395ede50ebb738640ff13cd61fe51cfddd3982d0",
+      "source_asset_dimensions": [
+        468,
+        400
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Natura morta (Still Life)",
+      "year": 1956,
+      "stage": "focus",
+      "source_url": "https://www.davidzwirner.com/artworks/giorgio-morandi-natura-morta-still-life--48c73",
+      "image_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/a95f59d7a5328282cf2b0a89b02b4a588f6427b1-3000x2625.jpg",
+      "file": "14-zwirner-1956-still-life.jpg",
+      "width": 720,
+      "height": 630,
+      "sha256": "320ce35d2f4272150ccccca2832434651341a43e1a11b01a1c7f802ea819a21f",
+      "source_asset_sha256": "5425f66a7aff69483b551c5b7d656761a51e6c0e16f3d1568ec2444b5aeeca3c",
+      "source_asset_dimensions": [
+        3000,
+        2625
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Still Life (Princeton University Art Museum)",
+      "year": 1957,
+      "stage": "focus",
+      "source_url": "https://artmuseum.princeton.edu/art/collections/objects/33069",
+      "image_url": "https://media.artmuseum.princeton.edu/iiif/3/collection/y1986-74_SL/full/,660/0/default.webp",
+      "file": "16-princeton-1957-still-life.jpg",
+      "width": 720,
+      "height": 448,
+      "sha256": "318aabdfcc75f3086137a24dcf5558eb445607337322d6b7ecf0bbaeaa6a5a05",
+      "source_asset_sha256": "ba2e36b48c03a2a135bf12718786469a83d00c33d3da61a8e963d857aca75722",
+      "source_asset_dimensions": [
+        843,
+        525
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Landscape (Paesaggio)",
+      "year": 1961,
+      "stage": "contrast",
+      "source_url": "https://digital.kmw.ch/en/art-objects/giorgio-morandi-still-life-landscape/",
+      "image_url": "https://digital.kmw.ch/media/images/19_Morandi_Paesaggio.format-jpeg.width-1200.jpg",
+      "file": "18-winterthur-1961-landscape.jpg",
+      "width": 720,
+      "height": 628,
+      "sha256": "dec6d5c1348750ccbbbceb736afa59efa5c89482962119aad044cd7cc7e843cd",
+      "source_asset_sha256": "3d30b4ddeaa03128bc26239ac27359edc3ecbf68eaa81ba0bd3202690925a9a1",
+      "source_asset_dimensions": [
+        1200,
+        1047
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Still Life (National Gallery of Art)",
+      "year": 1962,
+      "stage": "focus",
+      "source_url": "https://www.nga.gov/artworks/136021-still-life",
+      "image_url": "https://api.nga.gov/iiif/861cd086-f97c-4731-9836-9835b10854d4__900/full/!800,800/0/default.jpg",
+      "file": "19-nga-1962-still-life.jpg",
+      "width": 720,
+      "height": 608,
+      "sha256": "5562d53781d467929a75b54d4b2c9473576f6c86a9f016b5da78856062b1b1c9",
+      "source_asset_sha256": "2deb97627a0cad374e6522b03b911f1e2c0a45fad0f39b7b66b7825f202b0b99",
+      "source_asset_dimensions": [
+        800,
+        676
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}

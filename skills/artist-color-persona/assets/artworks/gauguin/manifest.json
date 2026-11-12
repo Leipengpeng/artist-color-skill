@@ -1,0 +1,143 @@
+{
+  "artist": "Paul Gauguin",
+  "role": "gauguin_pont_aven",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "Seascape with Cow (Above the Abyss)",
+      "year": 1888,
+      "stage": "focus",
+      "source_url": "https://www.musee-orsay.fr/en/artworks/marine-avec-vache-75093",
+      "image_url": "https://cdn.mediatheque.epmoo.fr/link/3c9igq/jld1butnfsxlqcg.jpg",
+      "file": "03-orsay-1888-seascape-with-cow.jpg",
+      "width": 597,
+      "height": 720,
+      "sha256": "9cfed4cde87afb50296a7658e787fae04ae972b06bb365ddf4add360781b305a",
+      "source_asset_sha256": "ad2687c34930dc1642d368d842d5d980010df3fffdd08265f3f28c9040ef5a55",
+      "source_asset_dimensions": [
+        705,
+        850
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Vision of the Sermon (Jacob Wrestling with the Angel)",
+      "year": 1888,
+      "stage": "focus",
+      "source_url": "https://commons.wikimedia.org/wiki/File:La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/3840px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg",
+      "file": "04-scotland-1888-vision-of-the-sermon.jpg",
+      "width": 720,
+      "height": 575,
+      "sha256": "399d7181003b5873e51a198bc7e959cacd49f329ac7bf5d06316301d35910c87",
+      "source_asset_sha256": "17b10b256bf116c1e8c439eb67f49428c625bfffc9bd2348885c375a9c136b2f",
+      "source_asset_dimensions": [
+        3840,
+        3067
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Swineherd",
+      "year": 1888,
+      "stage": "focus",
+      "source_url": "https://collections.lacma.org/object/63179",
+      "image_url": "https://collections-images.lacma.org/images/63179/63179-1-primary.webp",
+      "file": "07-lacma-1888-swineherd.jpg",
+      "width": 720,
+      "height": 575,
+      "sha256": "f4af9d0670326f05558674d9b232cfc9eac5c77fff973b0e1bdd30603acf1da5",
+      "source_asset_sha256": "6fc93d5206fa4260213f4722931d5a1a1ca2174c11b68fe85d03b5b2ff753bfd",
+      "source_asset_dimensions": [
+        2560,
+        2045
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Still Life with Three Puppies",
+      "year": 1888,
+      "stage": "focus",
+      "source_url": "https://www.moma.org/collection/works/78616",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjE1MTM0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=76b2aede54da05a8",
+      "file": "08-moma-1888-three-puppies.jpg",
+      "width": 496,
+      "height": 720,
+      "sha256": "f41af886342d984f743a334ae8f7821da75d21943aa7a861471474161480c60d",
+      "source_asset_sha256": "5cfc3e865e366a870648e79dd0cf6bcd0ba37cd70a05aeaa6e0740a8baf55f12",
+      "source_asset_dimensions": [
+        1378,
+        2000
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Breton Girls Dancing, Pont-Aven",
+      "year": 1888,
+      "stage": "focus",
+      "source_url": "https://www.nga.gov/artworks/61369-breton-girls-dancing-pont-aven",
+      "image_url": "https://api.nga.gov/iiif/732faae9-f8fe-459b-b86e-1c6039024179/full/full/0/default.jpg",
+      "file": "09-nga-1888-breton-girls-dancing.jpg",
+      "width": 720,
+      "height": 565,
+      "sha256": "9c1884f607f4990f1e4bdb4e90ab180656ae6e11d9ce084db32e1d0641679498",
+      "source_asset_sha256": "e862a755d4de4528392b3003985eed1062788b7926fcdcbfb009f208edd7b2d4",
+      "source_asset_dimensions": [
+        4096,
+        3213
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Yellow Christ",
+      "year": 1889,
+      "stage": "focus",
+      "source_url": "https://buffaloakg.org/artworks/19464-le-christ-jaune-yellow-christ",
+      "image_url": "https://buffaloakg.org/sites/default/files/artwork/1946_004_o2.jpg",
+      "file": "11-buffalo-1889-yellow-christ.jpg",
+      "width": 572,
+      "height": 720,
+      "sha256": "217f744b161c0ab31cd718b7a369181e63a52ecdaa556866c78ebcf2aecec2b1",
+      "source_asset_sha256": "4f00bd061462b46b75ffc9cdbd7c01d23b771f8aa206349ea0469cc1935a499a",
+      "source_asset_dimensions": [
+        1987,
+        2500
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "La Belle Angèle",
+      "year": 1889,
+      "stage": "focus",
+      "source_url": "https://www.musee-orsay.fr/en/artworks/la-belle-angele-286",
+      "image_url": "https://cdn.mediatheque.epmoo.fr/link/3c9igq/vjn1butph0qc61s.jpg",
+      "file": "17-orsay-1889-la-belle-angele.jpg",
+      "width": 558,
+      "height": 720,
+      "sha256": "a7bd91f65be30dda1cab1a9c5fc54ab4c3167113cb7a0814cf80c10609325798",
+      "source_asset_sha256": "7d271118bf5a48f30340da5922baf4e84777e82975c50f4bdc0499cbc8c9456f",
+      "source_asset_dimensions": [
+        659,
+        850
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Ia Orana Maria (Hail Mary)",
+      "year": 1891,
+      "stage": "contrast",
+      "source_url": "https://www.metmuseum.org/art/collection/search/438821",
+      "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/438821/795924/main-image",
+      "file": "19-met-1891-ia-orana-maria.jpg",
+      "width": 566,
+      "height": 720,
+      "sha256": "e3a6f3bb518f06f30561a89eedf1544d40bbffd3d8f64488cce9690b98b7dba1",
+      "source_asset_sha256": "1ed2b87d67122d2f81b5bc0bed8624874d70879b5c408e4a19837115eceb6680",
+      "source_asset_dimensions": [
+        944,
+        1200
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}

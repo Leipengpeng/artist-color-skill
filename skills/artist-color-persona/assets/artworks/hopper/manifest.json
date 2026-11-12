@@ -1,0 +1,151 @@
+{
+  "artist": "Edward Hopper",
+  "role": "hopper_urban_light",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "The El Station",
+      "year": "1908",
+      "series": "Early travel and architectural daylight",
+      "source_url": "https://whitney.org/collection/works/6071",
+      "image_url": "https://whitneymedia.org/assets/artwork/6071/70_1182_cropped.jpg",
+      "rights": "© Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), New York. Whitney collection website study copy.",
+      "file": "01-6071-the-el-station.jpg",
+      "width": 720,
+      "height": 498,
+      "sha256": "b89092d7f0bec86f6cee35449bced3f1897be8c27a47bfa02a0a7103fccfc2c2",
+      "source_asset_sha256": "411dfc17922cfdd246dc215a95809f94afdef47132f3436b0089e6de1776b19b",
+      "source_asset_dimensions": [
+        900,
+        623
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "New York Interior",
+      "year": "c. 1921",
+      "series": "Early urban interior",
+      "source_url": "https://whitney.org/collection/works/5908",
+      "image_url": "https://whitneymedia.org/assets/artwork/5908/70_1200_cropped.jpg",
+      "rights": "© Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), New York. Whitney collection website study copy.",
+      "file": "03-5908-new-york-interior.jpg",
+      "width": 720,
+      "height": 598,
+      "sha256": "f0f921bef17bfa5f7af404cd50e5017d84be2b920634d456c5c4f083015393c6",
+      "source_asset_sha256": "e4254505dadecd4ebfcaaa5ca47f0d5b919ff97824fafa59be35784b8e09212e",
+      "source_asset_dimensions": [
+        900,
+        747
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Railroad Sunset",
+      "year": "1929",
+      "series": "Urban infrastructure and dusk",
+      "source_url": "https://whitney.org/collection/works/5874",
+      "image_url": "https://whitneymedia.org/assets/artwork/5874/70_1170_cropped.jpg",
+      "rights": "© Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), New York. Whitney collection website study copy.",
+      "file": "04-5874-railroad-sunset.jpg",
+      "width": 720,
+      "height": 436,
+      "sha256": "21e0d08d951edea6fefc4ff73b709c5e936ef58b4bc7d8ddb24b3644887b0e25",
+      "source_asset_sha256": "fb724498e8d4427b2b7021cac20e9c2d11973a8350b1fb15e96598ba51e100ac",
+      "source_asset_dimensions": [
+        900,
+        545
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Early Sunday Morning",
+      "year": "1930",
+      "series": "Mature city daylight",
+      "source_url": "https://whitney.org/collection/works/46345",
+      "image_url": "https://whitneymedia.org/assets/artwork/46345/31_426_cropped.jpg",
+      "rights": "© Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), New York. Whitney collection website study copy.",
+      "file": "05-46345-early-sunday-morning.jpg",
+      "width": 720,
+      "height": 418,
+      "sha256": "f2920ba6345e5c7c9212fd4c6476ae8b371da3b543d1239741d45acfc021c9a4",
+      "source_asset_sha256": "478a6673a1cabfc8fb914fbc6f9c871fa661106d1736179242952a3dbf731268",
+      "source_asset_dimensions": [
+        900,
+        523
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Second Story Sunlight",
+      "year": "1960",
+      "series": "Late hard sunlight and architecture",
+      "source_url": "https://whitney.org/collection/works/873",
+      "image_url": "https://whitneymedia.org/assets/artwork/873/60_54_cropped.jpg",
+      "rights": "© Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), New York. Whitney collection website study copy.",
+      "file": "09-873-second-story-sunlight.jpg",
+      "width": 720,
+      "height": 578,
+      "sha256": "31304506f6d521ec298c2a956539bf75fc56d2b6a7eacdd1f58029686742654b",
+      "source_asset_sha256": "6d7b509785181c349405a43c17a5064d3f031533a7495772901a47d75e8528ad",
+      "source_asset_dimensions": [
+        900,
+        722
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Cape Cod Evening",
+      "year": "1939",
+      "series": "Mature Cape Cod landscape",
+      "source_url": "https://www.nga.gov/artworks/61252",
+      "image_url": "https://api.nga.gov/iiif/4c64affc-eb9f-4a49-b443-d7a26f7e9cab/full/700,/0/default.jpg",
+      "rights": "National Gallery of Art public collection display rendition (openaccess=0). Copyright retained. Local study copy.",
+      "file": "11-nga-61252-cape-cod-evening.jpg",
+      "width": 700,
+      "height": 525,
+      "sha256": "cb9a630bf9a8ec6d57117b7a910f2f256ea1fe99e59d67e8fc90ae37f0ae03ec",
+      "source_asset_sha256": "d520777311434ff34a3252883462dd04847d750149893328d7daf72e4557f22f",
+      "source_asset_dimensions": [
+        700,
+        525
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "New York Movie",
+      "year": "1939",
+      "series": "Mature urban interiors and artificial light",
+      "source_url": "https://www.nga.gov/research/publications/online-editions/american-paintings-1900-1945-ground-swell-1939#fig3",
+      "image_url": "https://api.nga.gov/iiif/e11c3946-c215-48a3-82f2-e06ede7f951e/full/,700/0/default.jpg",
+      "rights": "© The Museum of Modern Art / Licensed by SCALA / Art Resource, NY. NGA scholarly plate, local study copy.",
+      "file": "13-nga-plate-new-york-movie.jpg",
+      "width": 720,
+      "height": 573,
+      "sha256": "b6635f445e32343849dfd1db818a8c251e03aa9563f853b467fd1e970814a842",
+      "source_asset_sha256": "42b63fd13d76304567a49db97a06d5a3fe3333173346f1f93432d3e56ffc219d",
+      "source_asset_dimensions": [
+        879,
+        700
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Nighthawks",
+      "year": "1942",
+      "series": "Mature nocturnal street and diner light",
+      "source_url": "https://www.nga.gov/research/publications/online-editions/american-paintings-1900-1945-ground-swell-1939#fig5",
+      "image_url": "https://api.nga.gov/iiif/5fe02d57-7ced-40c0-a0f4-133c385130f7/full/,700/0/default.jpg",
+      "rights": "Art Institute of Chicago, Friends of American Art Collection, 1942.51. NGA scholarly plate, local study copy.",
+      "file": "14-nga-plate-nighthawks.jpg",
+      "width": 720,
+      "height": 389,
+      "sha256": "f74347aa5540f30900fef804b63cb2f14577e3f82ca255124363c63398e3ca4b",
+      "source_asset_sha256": "474078a75b143af4c924514d5a9664cfc7f73f9fa52e0b9e15551a4a470e3bee",
+      "source_asset_dimensions": [
+        1294,
+        700
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}

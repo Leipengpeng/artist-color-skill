@@ -1,0 +1,62 @@
+{
+  "hopper_urban_light": {
+    "artist": "Edward Hopper",
+    "manifest": "hopper/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "matisse_cutouts": {
+    "artist": "Henri Matisse",
+    "manifest": "matisse/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "monet_giverny_late": {
+    "artist": "Claude Monet",
+    "manifest": "monet/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "rothko_black_gray": {
+    "artist": "Mark Rothko",
+    "manifest": "rothko/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "adams_zone_print": {
+    "artist": "Ansel Adams",
+    "manifest": "adams/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "morandi_mature_still_life": {
+    "artist": "Giorgio Morandi",
+    "manifest": "morandi/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "vangogh_auvers": {
+    "artist": "Vincent van Gogh",
+    "manifest": "vangogh/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "chagall_vitebsk_memory": {
+    "artist": "Marc Chagall",
+    "manifest": "chagall/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "cezanne_color_planes": {
+    "artist": "Paul Cézanne",
+    "manifest": "cezanne/manifest.json",
+    "works": 8,
+    "automatic": true
+  },
+  "gauguin_pont_aven": {
+    "artist": "Paul Gauguin",
+    "manifest": "gauguin/manifest.json",
+    "works": 8,
+    "automatic": true
+  }
+}

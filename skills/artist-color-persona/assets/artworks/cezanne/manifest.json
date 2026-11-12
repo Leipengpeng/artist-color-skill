@@ -1,0 +1,143 @@
+{
+  "artist": "Paul Cézanne",
+  "role": "cezanne_color_planes",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "Mont Sainte-Victoire and the Viaduct of the Arc River Valley",
+      "year": "1882–85",
+      "stage": "contrast",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435877",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-20099-001.jpg",
+      "file": "05-met-435877.jpg",
+      "width": 720,
+      "height": 581,
+      "sha256": "afcf19459cd6283f4e21572918a4fffb48e9937f1dc63346b5aa55b7a1f84e20",
+      "source_asset_sha256": "034a91583008e7237b6d87effb5d95bd9504632eef925fe14ecd57ffa8fbcae8",
+      "source_asset_dimensions": [
+        4000,
+        3225
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Gulf of Marseille Seen from L'Estaque",
+      "year": "ca. 1885",
+      "stage": "contrast",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435872",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DT1029.jpg",
+      "file": "06-met-435872.jpg",
+      "width": 720,
+      "height": 526,
+      "sha256": "474715d6363926446f497b572bc17d6078b29191a725ca9e753b105de2447ce1",
+      "source_asset_sha256": "96e29b295068a3f8b9a304f18ce974d471d8a320571601e4d1cd7051e0813f51",
+      "source_asset_dimensions": [
+        1905,
+        1392
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Boy in a Red Waistcoat",
+      "year": "1888–90",
+      "stage": "contrast",
+      "source_url": "https://www.nga.gov/artworks/93044-boy-red-waistcoat",
+      "image_url": "https://api.nga.gov/iiif/23a49029-bfee-49bf-8f6c-07394b98965c/full/full/0/default.jpg",
+      "file": "09-boy-red-waistcoat.jpg",
+      "width": 577,
+      "height": 720,
+      "sha256": "d928ac1283a9ebcd727fb2e4204862a8134df81c40889257255dcacd111d064e",
+      "source_asset_sha256": "dde0dad48f599d3239c947afbd2186e08e5d3397027d31d8e4a016ccfb8ce7c4",
+      "source_asset_dimensions": [
+        3284,
+        4096
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Still Life with Apples and a Pot of Primroses",
+      "year": "ca. 1890",
+      "stage": "focus",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DT47.jpg",
+      "file": "11-met-435882.jpg",
+      "width": 720,
+      "height": 571,
+      "sha256": "6a2ed5d0fd907a15add87230612f223a2085116227a55fccb47234753e008e2f",
+      "source_asset_sha256": "8336c5eab1aa753a7a6c7ad2f713d1e19802236833943b22a8cc4d9fddd404bc",
+      "source_asset_dimensions": [
+        3807,
+        3021
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Card Players",
+      "year": "1890–92",
+      "stage": "focus",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435868",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP231550.jpg",
+      "file": "12-met-435868.jpg",
+      "width": 720,
+      "height": 573,
+      "sha256": "15c20133bd6941df69d8b27f58bc10d30c5f5561e8760314cbf83ca450367038",
+      "source_asset_sha256": "839b88c12f5d86f716fa30933335fde3bd4681c6e0f3727ccdaeb185d2dac7fb",
+      "source_asset_dimensions": [
+        3909,
+        3112
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Rocks at Fontainebleau",
+      "year": "1890s",
+      "stage": "focus",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435880",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-23704-001.jpg",
+      "file": "13-met-435880.jpg",
+      "width": 720,
+      "height": 577,
+      "sha256": "246f42141b54f1f916e6e6b42ed0e673942fb3adb2af17d5d0e5d9ebba123396",
+      "source_asset_sha256": "5b0b22e8a3917deb6953f3f1befde5e5793ed5c74b1998cc6bb77cc33e7d4e34",
+      "source_asset_dimensions": [
+        4000,
+        3207
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Mont Sainte-Victoire",
+      "year": "ca. 1902–6",
+      "stage": "focus",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435878",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/77J_045R2M.jpg",
+      "file": "19-met-435878.jpg",
+      "width": 720,
+      "height": 427,
+      "sha256": "3c40d740d54bd33b9288f5166e08d4650e583c4cb2a63378c9bd1627c5c7a05e",
+      "source_asset_sha256": "b36e321eef0922c85ba60b3f1be742235b0da4d70f8f5670a83ca1364f4e0b85",
+      "source_asset_dimensions": [
+        3001,
+        1780
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Still Life with Apples and Peaches",
+      "year": "ca. 1905",
+      "stage": "focus",
+      "source_url": "https://www.nga.gov/artworks/45986-still-life-apples-and-peaches",
+      "image_url": "https://api.nga.gov/iiif/5c394976-ec50-4c25-9c36-a39365a5fffe/full/full/0/default.jpg",
+      "file": "20-still-life-apples-peaches.jpg",
+      "width": 720,
+      "height": 577,
+      "sha256": "b5c25070079a6caa693d1c1fb3f2cb33a30d9fd55686846359260965441f1c4b",
+      "source_asset_sha256": "e204d0afdf68d435101cbf862b4da69d4b54e37a90ae5b0f06d0f8f0b0f0bb7d",
+      "source_asset_dimensions": [
+        4096,
+        3280
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}

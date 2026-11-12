@@ -1,0 +1,162 @@
+{
+  "artist": "Henri Matisse",
+  "role": "matisse_cutouts",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "Femme au chapeau (Woman with a Hat)",
+      "year": "1905",
+      "series": "Fauvism / portrait",
+      "stage": "contrast",
+      "source_url": "https://www.sfmoma.org/artwork/91.161/",
+      "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/04/27134227/91.161_SFMoMA_11-26-25_004_CROPPED_G02.jpg",
+      "rights": "SFMOMA collection website image, local visual research copy",
+      "file": "01-sfmoma-91.161.jpg",
+      "width": 532,
+      "height": 720,
+      "sha256": "a88742f8bd292f4afcae24d7b54e10ff1ac55b2eec1c5f1d881686e2df4fcdfc",
+      "source_asset_sha256": "66444173607b1708bf96075a6097a8e58a1892eb6ca2f96bc0c549298ad2e12f",
+      "source_asset_dimensions": [
+        1034,
+        1400
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "敞开的窗户，科利乌尔 / Open Window, Collioure",
+      "year": "1905",
+      "stage": "contrast",
+      "source_url": "https://www.nga.gov/artworks/106384-open-window-collioure",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Open_Window%2C_Collioure%2C_1905_-_Henri_Matisse.jpg",
+      "file": "02-open-window-collioure.jpg",
+      "width": 612,
+      "height": 720,
+      "sha256": "b4bc04724f4fab4ba81c1653b004cce2d82f568abe6bdd70a0acaa5619e54e4e",
+      "source_asset_sha256": "9ba84b38eebbd8fd220225dcae5c9643188d1a870a81a4b8ae2dcc9f6f046e92",
+      "source_asset_dimensions": [
+        1331,
+        1567
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Red Studio",
+      "year": "1911",
+      "series": "Early painting / dominant color field",
+      "stage": "contrast",
+      "source_url": "https://www.moma.org/collection/works/78389",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjQ5OTUxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=a587fdfbb079f20e",
+      "rights": "MoMA records © 2026 Succession H. Matisse / Artists Rights Society (ARS), New York; review copy for local research",
+      "file": "07-moma-78389.jpg",
+      "width": 720,
+      "height": 595,
+      "sha256": "93a1219a2c467418221ed31409a36101e8149002d041d72241d6cbfa50a7e8cb",
+      "source_asset_sha256": "8a862e5b34d51da99f4b6c9f033cc09998f64a929a4d8f2997d49fda55d457ca",
+      "source_asset_dimensions": [
+        2000,
+        1652
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Icarus (Icare)",
+      "year": "1947",
+      "series": "Jazz / pochoir after cut paper",
+      "stage": "focus",
+      "source_url": "https://www.moma.org/collection/works/105386",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjI4NzA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=3d7ef970f3ec9b74",
+      "rights": "MoMA records © 2026 Succession H. Matisse / Artists Rights Society (ARS), New York; review copy for local research",
+      "file": "12-moma-105386.jpg",
+      "width": 492,
+      "height": 720,
+      "sha256": "b1fb6d6ba27d7d9733241d22fbcdeb477e1318347022154306cc14fe591abe1c",
+      "source_asset_sha256": "42e49b748c1fc301c7b8e81a3de0a0bd1476c628fe930cac978133771564b1ae",
+      "source_asset_dimensions": [
+        2000,
+        1308
+      ],
+      "source_artwork_crop": [
+        0.52,
+        0.02,
+        0.938,
+        0.955
+      ]
+    },
+    {
+      "title": "The Swimming Pool, Maquette for ceramic",
+      "year": "1952",
+      "series": "Late cut-outs / blue and white ceramic design",
+      "stage": "focus",
+      "source_url": "https://www.moma.org/collection/works/79462",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjI5MjQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=0e0d28654c08a271",
+      "rights": "MoMA records © 2026 Succession H. Matisse / Artists Rights Society (ARS), New York; review copy for local research",
+      "file": "16-moma-79462.jpg",
+      "width": 720,
+      "height": 331,
+      "sha256": "84ada9ffa57fe09b4dad437e5c207db06cc818341052b068b37f45b503794dbf",
+      "source_asset_sha256": "e75b84f15ecdafeb1bbc0c7cc8e80852a000887154a1100dc267e53d74115973",
+      "source_asset_dimensions": [
+        2000,
+        920
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Memory of Oceania",
+      "year": "1952–53",
+      "series": "Late cut-outs / monumental color composition",
+      "stage": "focus",
+      "source_url": "https://www.moma.org/collection/works/79187",
+      "image_url": "https://www.moma.org/media/W1siZiIsIjI3OTI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=b3daf5e1bdfc6567",
+      "rights": "MoMA records © 2026 Succession H. Matisse / Artists Rights Society (ARS), New York; review copy for local research",
+      "file": "17-moma-79187.jpg",
+      "width": 720,
+      "height": 719,
+      "sha256": "05960feee7a1e7f437c9752d070d5f7ce3304f8ffb580fc8f8423a74740c6137",
+      "source_asset_sha256": "4285c22d4ef953a44b32a1d739e773aebf862a74448c352c943a2a965b70c98c",
+      "source_asset_dimensions": [
+        2000,
+        1998
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Nu bleu II (Blue Nude II)",
+      "year": "1952",
+      "series": "Late cut-outs / Blue Nudes",
+      "stage": "focus",
+      "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cnyjxX",
+      "image_url": "https://www.centrepompidou.fr/media/picture/c0/9f/c09f99aa1fc23f2d592fd077ef431c5d/thumb_large.jpg",
+      "rights": "Centre Pompidou collection website reproduction, marked Domaine public; photographer credits on work page",
+      "file": "18-pompidou-cnyjxX.jpg",
+      "width": 555,
+      "height": 720,
+      "sha256": "3ce1f45b8be2e636a12ca2c2fcbf6ad1ef01b3d475f5644bc96e1a7f0de41fd4",
+      "source_asset_sha256": "75c6f06696d010273cfe8348e232f568ed95d8872a8781da1e783e473cf8611a",
+      "source_asset_dimensions": [
+        617,
+        800
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Snail",
+      "year": "1953",
+      "series": "Late cut-outs / monumental composition",
+      "stage": "focus",
+      "source_url": "https://www.tate.org.uk/art/artworks/matisse-the-snail-t00540",
+      "image_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_OEG4idb.jpg",
+      "rights": "Tate collection website image, local visual research copy",
+      "file": "20-tate-t00540.jpg",
+      "width": 600,
+      "height": 606,
+      "sha256": "332f0a52d775773be87ad642ef9f4d0aba718eae127db4373ad3ae00110a20fc",
+      "source_asset_sha256": "be1044bdd39e0dbee524ebc4978b5b2fc59636a5f80cda34261e02530fb0efb5",
+      "source_asset_dimensions": [
+        600,
+        606
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "artist": "Vincent van Gogh",
+  "role": "vangogh_auvers",
+  "representation": "Curated sRGB JPEG study reproductions, up to 720 px, with source citations.",
+  "items": [
+    {
+      "title": "Terrace of a Café at Night (Place du Forum)",
+      "year": "1888",
+      "stage": "contrast",
+      "source_url": "https://www.krollermuller.nl/en/collection/vincent-van-gogh-terrace-of-a-caf-at-night-place-du-forum-km-108-565",
+      "image_url": "https://iiif.micr.io/wfngZV/full/!2400,2400/0/default.jpg",
+      "file": "05-cafe-terrace-at-night.jpg",
+      "width": 577,
+      "height": 720,
+      "sha256": "ca60e752b1186b59d488275961347d33da070e3cd672e3246c894a01194cb8f4",
+      "source_asset_sha256": "869a9e0a5d00eba1cd8d941c0ea535afc1728844e8391308179c63f9e8c8018b",
+      "source_asset_dimensions": [
+        1925,
+        2400
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Starry Night over the Rhône",
+      "year": "1888",
+      "stage": "contrast",
+      "source_url": "https://www.musee-orsay.fr/en/artworks/la-nuit-etoilee-78696",
+      "image_url": "https://lh3.googleusercontent.com/ci/AL18g_TyMAGDwPXVMZcGlVnjzQB58JFZPNKEM9_gbR41YgeEGBlQaoYfJh6ZZq5NlHez52sO1Wt4AQ=s3000",
+      "file": "06-starry-night-rhone.jpg",
+      "width": 720,
+      "height": 556,
+      "sha256": "ec9250ce7a07cf45580b65edfa103892a418499567f49e00e32c8390a3e601ec",
+      "source_asset_sha256": "ff46dc089d218a182afb47a6be15c7535351b89eff653a27ab7edd33cdee5b73",
+      "source_asset_dimensions": [
+        1200,
+        927
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Starry Night",
+      "year": "1889",
+      "stage": "contrast",
+      "source_url": "https://www.moma.org/collection/works/79802",
+      "image_url": "https://lh3.googleusercontent.com/ci/AL18g_TvdB_hjoYvuaS2rEW5cg-A-MRUlM0isl4wZh6ox58FudFhILjCxi_nj7429URoo13u6lbo8A=s3000",
+      "file": "10-the-starry-night.jpg",
+      "width": 720,
+      "height": 570,
+      "sha256": "df499f6949efc62c8adc7d6ae0232c59b2c31dbadb7bcaadc2d34cd9c214ae78",
+      "source_asset_sha256": "38a86d8ed2478a617d326f62cc9189d15d4548217a54889d6022926aead22c47",
+      "source_asset_dimensions": [
+        1200,
+        950
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Wheatfield with Crows",
+      "year": "1890",
+      "stage": "focus",
+      "source_url": "https://www.vangoghmuseum.nl/en/collection/s0149V1962",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/archive/a/a1/20240124125713%21Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+      "file": "12-wheatfield-with-crows.jpg",
+      "width": 720,
+      "height": 345,
+      "sha256": "e4a179960f4a5042a76591e033e6ce95150b4ca792da418c1044ec8ed2e82c88",
+      "source_asset_sha256": "a55397aeda5c385e6544507cd8600128ec783b21950f1ed92093b696000e6909",
+      "source_asset_dimensions": [
+        7762,
+        3718
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Wheatfield under Thunderclouds",
+      "year": "1890",
+      "stage": "focus",
+      "source_url": "https://www.vangoghmuseum.nl/en/collection/s0106V1962",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vincent_van_Gogh_-_Wheatfield_under_thunderclouds_-_Google_Art_Project.jpg",
+      "file": "13-wheatfield-under-thunderclouds.jpg",
+      "width": 720,
+      "height": 354,
+      "sha256": "25dd4d5fd2d4da329eb198e9a5376d2456ce842405d27efe2dc43367cdcff0b6",
+      "source_asset_sha256": "6e9d9d46e7bec562234daa2c7beba949b1d05b2031ff16754bf5c4203cb47859",
+      "source_asset_dimensions": [
+        3508,
+        1724
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Tree Roots",
+      "year": "1890",
+      "stage": "focus",
+      "source_url": "https://www.vangoghmuseum.nl/en/collection/s0195V1962",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Boomwortels_-_s0195V1962_-_Van_Gogh_Museum.jpg",
+      "file": "14-tree-roots.jpg",
+      "width": 720,
+      "height": 352,
+      "sha256": "3a79c866e7ef33889d4c1319be23aa40712af96b4a5eb63edbeacea8b313857f",
+      "source_asset_sha256": "1047f24066145fd74e1ca871b39e3315124a3f7ee2f66f7878a3ce1f06b3bc22",
+      "source_asset_dimensions": [
+        7557,
+        3698
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "Adeline Ravoux",
+      "year": "1890",
+      "stage": "focus",
+      "source_url": "https://www.clevelandart.org/art/1958.31",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_print.jpg",
+      "file": "16-adeline-ravoux.jpg",
+      "width": 720,
+      "height": 718,
+      "sha256": "7dfa39dc90403ea435875241e7ee6fbae1ab38f0f8e7ae9f6dc3d42e17e6e06d",
+      "source_asset_sha256": "93307cc6eef480d9bfb249bdb07baa1b977077f10ca2d6be9925ef7fcc90865b",
+      "source_asset_dimensions": [
+        3400,
+        3389
+      ],
+      "source_artwork_crop": null
+    },
+    {
+      "title": "The Church at Auvers",
+      "year": "1890",
+      "stage": "focus",
+      "source_url": "https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755",
+      "image_url": "https://lh3.googleusercontent.com/ci/AL18g_S8f8wGJ58Pcv1Mzn1BB7tsBXtnk1bt5s7_ddL9Uy1gk4djKLJTveeVi9ENhtifojxZthrFVnE=s3000",
+      "file": "18-church-at-auvers.jpg",
+      "width": 558,
+      "height": 720,
+      "sha256": "58201dce5514b4e6d2cc5be604a447e1f65ee269d566f8d689b1a49322a70f65",
+      "source_asset_sha256": "ca92f000d8c46870592e095532a5d3ec45e0f03276168d0bb8cd96a4cca173f8",
+      "source_asset_dimensions": [
+        930,
+        1200
+      ],
+      "source_artwork_crop": null
+    }
+  ]
+}
